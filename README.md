@@ -51,7 +51,7 @@ Navigate to the corresponding folder to the Project you are working on.
 ### Step 3: Upload or Create Your File
 Click on "Add file" to upload or create your test case. If uploading, multiple files can be uploaded at one time.
 
-<img width="947" alt="Upload or Create Your File" src="https://user-images.githubusercontent.com/43518772/156108273-a413e5e9-769c-4917-8981-f3afeaecebbc.png">
+<img width="947" alt="Upload or Create Your File" src="https://user-images.githubusercontent.com/43518772/156119043-45ba2e87-39cd-444a-acde-d82d55a44c9d.png">
 
 ### Step 4: Commit your Test Case
 After you are done, commit your test case. Select "Commit directly to the main branch" when committing. Feel free to add an optional description.
@@ -61,13 +61,13 @@ After you are done, commit your test case. Select "Commit directly to the main b
 ### Step 5: Open a Pull Request
 If you aren't already back to https://github.com/JeffersonYu1/EE312H-Testcases, navigate to the main page of the repo. Then, click "Contribute" and then "Open a Pull Request."
 
-<img width="947" alt="skfhgbsjkdg" src="https://user-images.githubusercontent.com/43518772/156109032-ded8be2d-b51d-4683-bcdd-a09172e33431.png">
+<img width="947" alt="Open a Pull Request" src="https://user-images.githubusercontent.com/43518772/156109032-ded8be2d-b51d-4683-bcdd-a09172e33431.png">
 
 ### Step 6: Create the Pull Request
 Click "Create Pull Request". Keep "Allow Edits by Maintainers" checked.
 
-<img width="947" alt="skfhgbsjkdg" src="https://user-images.githubusercontent.com/43518772/156109417-358913dc-b805-4304-aa6d-df94e6676fb6.png">
-<img width="947" alt="skfhgbsjkdg" src="https://user-images.githubusercontent.com/43518772/156109589-23f7f965-8d17-4c43-bef1-91e45c796e84.png">
+<img width="947" alt="Create the Pull Request 1" src="https://user-images.githubusercontent.com/43518772/156109417-358913dc-b805-4304-aa6d-df94e6676fb6.png">
+<img width="947" alt="Create the Pull Request 2" src="https://user-images.githubusercontent.com/43518772/156109589-23f7f965-8d17-4c43-bef1-91e45c796e84.png">
 
 ### Step 7: Done!
 That's it on your end! Once the test case is approved, your branch will be merged with the main of this repo, and the test case will show up in the folder. Thank you for your contribution! 
