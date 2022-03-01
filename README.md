@@ -1,6 +1,6 @@
 # EE312H-Testcases
 Unofficial, student-contribution test case repository for UT Austin's EE312H Course (Software Design and Implementation). Started Spring 2022.
-Thanks to everyone who contributed to this project! 
+Thanks to everyone who contributed to this project! **Do not upload program source code to this repo or its forks!!**
 
 * [How to Write a Test Case](https://github.com/JeffersonYu1/EE312H-Testcases/edit/main/README.md#how-to-write-a-test-case)
 * [How to Use a Test Case](https://github.com/JeffersonYu1/EE312H-Testcases/edit/main/README.md#how-to-use-a-test-case)
@@ -8,9 +8,27 @@ Thanks to everyone who contributed to this project!
 
 ## How to Write a Test Case
 ### Project 4
+Project 4 is **.txt** input based.
+* Create a new **.txt** file, then type commands, such as "Inventory", "Purchase", and "Summarize" as specified by the instructions PDF.
+* Be sure to end the list of commands with "Quit."
+* After the "Quit", type the expected output in block comment form.
 
 ## How to Use a Test Case
-### Project
+### Project 4
+Place the desired **.txt** file(s) (test case) into the same folder as your **proj4** executable.
+* Navigate to **main.cpp** and scroll down to the **main** function. Find the code snippet below and make the changes:
+```
+...
+readInput("test3.txt");
+reset();
+
+// ADD THE BELOW TWO LINES FOR EACH NEW TEST CASE
+readInput(DESIRED TXT FILE NAME);
+reset();
+```
+* Save **main.cpp** and recompile by calling **make** in your Project 4 directory.
+* Run your **proj4** executable, and the test case results should be displayed in the console.
+* **Don't forget** to try your code on the ECE server :)
 
 ## How to Submit a Test Case to this Repository
 ### Step 1: Create a Fork of this Repository
@@ -49,3 +67,5 @@ Click "Create Pull Request". Keep "Allow Edits by Maintainers" checked.
 <img width="947" alt="skfhgbsjkdg" src="https://user-images.githubusercontent.com/43518772/156109417-358913dc-b805-4304-aa6d-df94e6676fb6.png">
 <img width="947" alt="skfhgbsjkdg" src="https://user-images.githubusercontent.com/43518772/156109589-23f7f965-8d17-4c43-bef1-91e45c796e84.png">
 
+### Step 7: Done!
+That's it on your end! Once the test case is approved, your branch will be merged with the main of this repo, and the test case will show up in the folder. Thank you for your contribution! 
