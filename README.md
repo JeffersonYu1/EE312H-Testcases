@@ -1,4 +1,51 @@
 # EE312H-Testcases
 Unofficial, student-contribution test case repository for UT Austin's EE312H Course (Software Design and Implementation). Started Spring 2022.
+Thanks to everyone who contributed to this project! 
 
-Fork test - utexas email
+* [How to Write a Test Case](https://github.com/JeffersonYu1/EE312H-Testcases/edit/main/README.md#how-to-write-a-test-case)
+* [How to Use a Test Case](https://github.com/JeffersonYu1/EE312H-Testcases/edit/main/README.md#how-to-use-a-test-case)
+* [How to Submit a Test Case to this Repository](https://github.com/JeffersonYu1/EE312H-Testcases/edit/main/README.md#how-to-submit-a-test-case-to-this-repository)
+
+## How to Write a Test Case
+### Project 4
+
+## How to Use a Test Case
+### Project
+
+## How to Submit a Test Case to this Repository
+### Step 1: Create a Fork of this Repository
+Navigate to https://github.com/JeffersonYu1/EE312H-Testcases and create a fork of this repository. ([What is a fork?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks)) The created fork will be located in your GitHub account.
+
+<img width="947" alt="Create a Fork of this Repository" src="https://user-images.githubusercontent.com/43518772/156106635-71313b9e-f1a1-4e40-bf9f-3e4bd9ede9e5.png">
+
+### Step 1.5: Fetch Upstream
+If it's been a while since you last forked the repo (repository), click "Fetch Upstream" to make sure your fork is up to date.
+
+<img width="947" alt="Fetch Upstream" src="https://user-images.githubusercontent.com/43518772/156107880-3636627a-659c-40a9-93f4-2b7bb3e0beff.png">
+
+### Step 2: Navigate to the Corresponding Folder
+Navigate to the corresponding folder to the Project you are working on.
+
+<img width="947" alt="Navigate to the Corresponding Folder" src="https://user-images.githubusercontent.com/43518772/156107988-96a43afb-a600-4281-a594-bb32ecd4b827.png">
+
+### Step 3: Upload or Create Your File
+Click on "Add file" to upload or create your test case. If uploading, multiple files can be uploaded at one time.
+
+<img width="947" alt="Upload or Create Your File" src="https://user-images.githubusercontent.com/43518772/156108273-a413e5e9-769c-4917-8981-f3afeaecebbc.png">
+
+### Step 4: Commit your Test Case
+After you are done, commit your test case. Select "Commit directly to the main branch" when committing. Feel free to add an optional description.
+
+<img width="947" alt="Commit your Test Case" src="https://user-images.githubusercontent.com/43518772/156108622-65712d2e-f138-4e1b-957f-421c9a0a9998.png">
+
+### Step 5: Open a Pull Request
+If you aren't already back to https://github.com/JeffersonYu1/EE312H-Testcases, navigate to the main page of the repo. Then, click "Contribute" and then "Open a Pull Request."
+
+<img width="947" alt="skfhgbsjkdg" src="https://user-images.githubusercontent.com/43518772/156109032-ded8be2d-b51d-4683-bcdd-a09172e33431.png">
+
+### Step 6: Create the Pull Request
+Click "Create Pull Request". Keep "Allow Edits by Maintainers" checked.
+
+<img width="947" alt="skfhgbsjkdg" src="https://user-images.githubusercontent.com/43518772/156109417-358913dc-b805-4304-aa6d-df94e6676fb6.png">
+<img width="947" alt="skfhgbsjkdg" src="https://user-images.githubusercontent.com/43518772/156109589-23f7f965-8d17-4c43-bef1-91e45c796e84.png">
+
