@@ -12,6 +12,7 @@ Project 4 is **.txt** input based.
 * Create a new **.txt** file, then type commands, such as "Inventory", "Purchase", and "Summarize" as specified by the instructions PDF.
 * Be sure to end the list of commands with "Quit."
 * After the "Quit", type the expected output in block comment form.
+* Please add a new line after the end-of-test line.
 
 ## How to Use a Test Case
 ### Project 4
