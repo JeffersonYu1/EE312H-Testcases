@@ -1,0 +1,27 @@
+Inventory Bottles -50000
+Inventory Rattles 0
+Inventory Diapers 0
+Inventory Bottles 500
+Inventory Bottles 0
+Inventory Rattles 20
+Inventory Rattles 1
+Inventory Diapers 1
+Inventory Diapers 3
+
+
+Purchase Jefferson Bottles 20
+Purchase maybe Diapers 0
+Purchase is Diapers 1
+Purchase not Diapers -1
+Purchase gay Rattles 1
+
+Summarize
+Quit
+
+/** test7 Results should be: **/
+There are 480 Bottles 3 Diapers and 20 Rattles in inventory
+we have had a total of 3 different customers
+Jefferson has purchased the most Bottles (20)
+is has purchased the most Diapers (1)
+gay has purchased the most Rattles (1)
+/********* end of test 7 *************/
