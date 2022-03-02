@@ -3,9 +3,9 @@ Unofficial, student-contribution test case repository for UT Austin's EE312H Cou
 
 Thanks to everyone who contributed to this project! **Do not upload program source code to this repo or its forks!!**
 
-* [How to Write a Test Case](https://github.com/JeffersonYu1/EE312H-Testcases/README.md#how-to-write-a-test-case)
-* [How to Use a Test Case](https://github.com/JeffersonYu1/EE312H-Testcases/README.md#how-to-use-a-test-case)
-* [How to Submit a Test Case to this Repository](https://github.com/JeffersonYu1/EE312H-Testcases/README.md#how-to-submit-a-test-case-to-this-repository)
+* [How to Write a Test Case](https://github.com/JeffersonYu1/EE312H-Testcases#how-to-write-a-test-case)
+* [How to Use a Test Case](https://github.com/JeffersonYu1/EE312H-Testcases#how-to-use-a-test-case)
+* [How to Submit a Test Case to this Repository](https://github.com/JeffersonYu1/EE312H-Testcases#how-to-submit-a-test-case-to-this-repository)
 
 ## How to Write a Test Case
 ### Project 4
