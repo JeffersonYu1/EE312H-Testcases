@@ -1,0 +1,60 @@
+Summarize
+
+Inventory Bottles -50000
+Inventory Rattles -50000
+Inventory Diapers -50000
+Inventory Rattles 0
+Inventory Diapers 0
+Inventory Bottles 0
+Inventory Bottles 500
+Inventory Rattles 500
+Inventory Diapers 500 
+Inventory Bottles 20
+Inventory Rattles 20
+Inventory Diapers 20 
+
+Summarize
+
+Purchase a Bottles 530
+Purchase b Rattles 530
+Purchase c Diapers 530
+Purchase a Bottles -530
+Purchase b Rattles -530
+Purchase c Diapers -530
+Purchase sandeepguptadoubledeckerbusshanticurrypatel Bottles 519
+Purchase baljeet Diapers 519 
+Purchase ferb Rattles 519
+Purchase dummy1 Bottles 2
+Purchase dummy2 Rattles 2
+Purchase dummy3 Diapers 2
+Purchase brokemf Bottles 1
+Purchase baljeet Diapers 1
+
+
+Summarize
+Quit
+
+
+/** test8 Results should be: **/
+There are 0 Bottles 0 Diapers and 0 Rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any Bottles
+no one has purchased any Diapers
+no one has purchased any Rattles
+There are 520 Bottles 520 Diapers and 520 Rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any Bottles
+no one has purchased any Diapers
+no one has purchased any Rattles
+Sorry a, we only have 520 Bottles
+Sorry b, we only have 520 Rattles
+Sorry c, we only have 520 Diapers
+Sorry dummy1, we only have 1 Bottles
+Sorry dummy2, we only have 1 Rattles
+Sorry dummy3, we only have 1 Diapers
+There are 0 Bottles 0 Diapers and 1 Rattles in inventory
+we have had a total of 4 different customers
+sandeepguptadoubledeckerbusshanticurrypatel has purchased the most Bottles (519)
+baljeet has purchased the most Diapers (520)
+ferb has purchased the most Rattles (519)
+/********* end of test 8 *************/
