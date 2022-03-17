@@ -32,7 +32,7 @@ Remove (or move outside of the current folder) the original **main.cpp** file th
 * **main.cpp** - Original tester given by instructors.
 * **main-2.cpp** - Tester for union, intersection, subtraction, and isMember with 1000 randomly generated cases.
   *  Note: If you don't want full details for each case to be shown, change **showDeets** at the top of the file to **0** instead of **1**.
-* **Project5testcasegen.py** - Python script used to 
+* **Project5testcasegen.py** - Python script used to generate random cases for **main-2.cpp**.
 
 
 ### Project 4
