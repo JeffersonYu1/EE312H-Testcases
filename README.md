@@ -25,7 +25,7 @@ Project 4 is **.txt** input based.
 ## How to Use a Test Case
 ### Project 5
 Remove (or move outside of the current folder) the original **main.cpp** file that was provided in the Project 5 ZIP.
-* Then, place the desired **.cpp** file with custom test cases into the folder with your **Project5.cpp** and other associated files.
+* Then, download the desired **.cpp** file with custom test cases into the folder with your **Project5.cpp** and other associated files. You can download a file by navigating to it in the GitHub file explorer, then opening the file and clicking on the **Download** button.
 * Run 'make' in terminal like normal.
 * If 'make' is successful, run **./proj5**.
 * Note: For the **main-2.cpp** test cases, if you don't want full details for each case to be shown, change **showDeets** at the top of the file to **0** instead of **1**.
