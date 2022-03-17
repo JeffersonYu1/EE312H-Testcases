@@ -12,7 +12,7 @@ Thanks to everyone who contributed to this project! **Do not upload program sour
 Project 5 cases are **.cpp** (program) based.
 * Create a new **.cpp** file based on **main.cpp**. Write your test functions in this new **.cpp** file and have **main()** call on those functions.
 * Use **assert()** to check if a result is as expected. If a value is not as expected, execution will halt.
-* If you have an idea for a test case / edge case but are unsure how to write the tester, [feel free to open an issue here](https://github.com/JeffersonYu1/EE312H-Testcases/issues), describe what your idea is,and I'll try to help out.
+* If you have an idea for a test case / edge case but are unsure how to write the tester, [feel free to open an issue here by clicking **new issue**](https://github.com/JeffersonYu1/EE312H-Testcases/issues), describe what your idea is, and I'll try to help out.
 
 ### Project 4
 Project 4 is **.txt** input based.
