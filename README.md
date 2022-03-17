@@ -28,7 +28,10 @@ Remove (or move outside of the current folder) the original **main.cpp** file th
 * Then, download the desired **.cpp** file with custom test cases into the folder with your **Project5.cpp** and other associated files. You can download a file by navigating to it in the GitHub file explorer, then opening the file and clicking on the **Download** button.
 * Run 'make' in terminal like normal.
 * If 'make' is successful, run **./proj5**.
-* Note: For the **main-2.cpp** test cases, if you don't want full details for each case to be shown, change **showDeets** at the top of the file to **0** instead of **1**.
+#### Tests
+* **main.cpp** - Original tester given by instructors.
+* **main-2.cpp** - Tester for union, intersection, subtraction, and isMember with 1000 randomly generated cases.
+  *  Note: If you don't want full details for each case to be shown, change **showDeets** at the top of the file to **0** instead of **1**.
 
 
 ### Project 4
