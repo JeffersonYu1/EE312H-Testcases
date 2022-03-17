@@ -8,6 +8,12 @@ Thanks to everyone who contributed to this project! **Do not upload program sour
 * [How to Submit a Test Case to this Repository](https://github.com/JeffersonYu1/EE312H-Testcases#how-to-submit-a-test-case-to-this-repository)
 
 ## How to Write a Test Case
+### Project 5 
+Project 5 cases are **.cpp** (program) based.
+* Create a new **.cpp** file based on **main.cpp**. Write your test functions in this new **.cpp** file and have **main()** call on those functions.
+* Use **assert()** to check if a result is as expected. If a value is not as expected, execution will halt.
+* If you have an idea for a test case / edge case but are unsure how to write the tester, [feel free to open an issue here](https://github.com/JeffersonYu1/EE312H-Testcases/issues), describe what your idea is,and I'll try to help out.
+
 ### Project 4
 Project 4 is **.txt** input based.
 * Create a new **.txt** file, then type commands, such as "Inventory", "Purchase", and "Summarize" as specified by the instructions PDF.
@@ -15,7 +21,16 @@ Project 4 is **.txt** input based.
 * After the "Quit", type the expected output in block comment form.
 * Please add a new line after the end-of-test line.
 
+
 ## How to Use a Test Case
+### Project 5
+Remove (or move outside of the current folder) the original **main.cpp** file that was provided in the Project 5 ZIP.
+* Then, place the desired **.cpp** file with custom test cases into the folder with your **Project5.cpp** and other associated files.
+* Run 'make' in terminal like normal.
+* If 'make' is successful, run **./proj5**.
+* Note: For the **main-2.cpp** test cases, if you don't want full details for each case to be shown, change **showDeets** at the top of the file to **0** instead of **1**.
+
+
 ### Project 4
 Place the desired **.txt** file(s) (test case) into the same folder as your **proj4** executable.
 * Navigate to **main.cpp** and scroll down to the **main** function. Find the code snippet below and make the changes:
