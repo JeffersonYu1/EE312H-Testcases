@@ -3,26 +3,26 @@ Student-contribution test case repository for UT Austin's EE312H Course (Softwar
 
 Thanks to everyone who contributed to this project! **Do not upload program source code to this repo or its forks!!**
 
-* [How to Write a Test Case](https://github.com/JeffersonYu1/EE312H-Testcases#how-to-write-a-test-case)
 * [How to Use a Test Case](https://github.com/JeffersonYu1/EE312H-Testcases#how-to-use-a-test-case)
+* [How to Write a Test Case](https://github.com/JeffersonYu1/EE312H-Testcases#how-to-write-a-test-case)
 * [How to Submit a Test Case to this Repository](https://github.com/JeffersonYu1/EE312H-Testcases#how-to-submit-a-test-case-to-this-repository)
 
-## How to Write a Test Case
-### Project 5 
-Project 5 cases are **.cpp** (program) based.
-* Create a new **.cpp** file based on **main.cpp**. Write your test functions in this new **.cpp** file and have **main()** call on those functions.
-* Use **assert()** to check if a result is as expected. If a value is not as expected, execution will halt.
-* If you have an idea for a test case / edge case but are unsure how to write the tester, [feel free to open an issue here by clicking **new issue**](https://github.com/JeffersonYu1/EE312H-Testcases/issues), describe what your idea is, and I'll try to help out.
-
-### Project 4
-Project 4 is **.txt** input based.
-* Create a new **.txt** file, then type commands, such as "Inventory", "Purchase", and "Summarize" as specified by the instructions PDF.
-* Be sure to end the list of commands with "Quit."
-* After the "Quit", type the expected output in block comment form.
-* Please add a new line after the end-of-test line.
-
-
 ## How to Use a Test Case
+### Project 6
+The Project 6 Tester includes an autograder. Your score will be shown at the end of the tests.
+
+1. Remove the original **main.cpp** file that was provided in the Project 6 ZIP.
+2. Download/save my [main2.cpp](https://raw.githubusercontent.com/JeffersonYu1/EE312H-Testcases/main/Project6/main2.cpp) file, and place it into the folder with your **Project6.cpp** and other files for this lab.
+3. Open your IDE and run 'make' in terminal like normal. (There may be some warnings.)
+4. If 'make' is successful, run **./proj6**.
+5. Keep running / revising your Project 6 until you get the cat (pass all tests) (:
+
+Note: If you don't want full details for each test to be shown, change **showDetails** at the top of the file to **0** instead of **1**. Then, only the details for failed cases will be shown.
+
+#### Files in Project 6 Folder
+* **main.cpp** - Original tester given by instructors.
+* **main2.cpp** - Tester for all functions in this lab.
+
 ### Project 5
 Remove (or move outside of the current folder) the original **main.cpp** file that was provided in the Project 5 ZIP.
 * Then, download the desired **.cpp** file with custom test cases into the folder with your **Project5.cpp** and other associated files. You can download a file by navigating to it in the GitHub file explorer, then opening the file and clicking on the **Download** button.
@@ -50,6 +50,24 @@ reset();
 * Save **main.cpp** and recompile by calling **make** in your Project 4 directory.
 * Run your **proj4** executable, and the test case results should be displayed in the console.
 * **Don't forget** to try your code on the ECE server :)
+
+## How to Write a Test Case
+### Project 6
+Like Project 5.
+
+### Project 5 
+Project 5 cases are **.cpp** (program) based.
+* Create a new **.cpp** file based on **main.cpp**. Write your test functions in this new **.cpp** file and have **main()** call on those functions.
+* Use **assert()** to check if a result is as expected. If a value is not as expected, execution will halt.
+* If you have an idea for a test case / edge case but are unsure how to write the tester, [feel free to open an issue here by clicking **new issue**](https://github.com/JeffersonYu1/EE312H-Testcases/issues), describe what your idea is, and I'll try to help out.
+
+### Project 4
+Project 4 is **.txt** input based.
+* Create a new **.txt** file, then type commands, such as "Inventory", "Purchase", and "Summarize" as specified by the instructions PDF.
+* Be sure to end the list of commands with "Quit."
+* After the "Quit", type the expected output in block comment form.
+* Please add a new line after the end-of-test line.
+
 
 ## How to Submit a Test Case to this Repository
 ### Step 1: Create a Fork of this Repository
