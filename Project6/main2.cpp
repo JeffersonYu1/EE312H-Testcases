@@ -7,6 +7,9 @@
 #include <string.h>
 #include <time.h>
 
+// Change SHOWDETAILS to:
+// 1 if you want details for ALL CASES to be shown
+// 0 if you want details for ONLY FAILED CASES to be shown
 #define SHOWDETAILS 1
 
 int maze[MATRIX_SIZE][MATRIX_SIZE];
