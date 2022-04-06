@@ -8,6 +8,29 @@ Thanks to everyone who contributed to this project! **Do not upload program sour
 * [How to Submit a Test Case to this Repository](https://github.com/JeffersonYu1/EE312H-Testcases#how-to-submit-a-test-case-to-this-repository)
 
 ## How to Use a Test Case
+### Project 7
+Place the desired **.txt** file(s) (test case) into the same folder as your **proj7** executable (called **a.out** for this project).
+* Navigate to **main.cpp** and scroll down to the **main** function. Find the code snippet below and make the changes:
+```
+...
+readInput("test3.txt");
+reset();
+
+// ADD THE BELOW TWO LINES FOR EACH NEW TEST CASE
+readInput(DESIRED TXT FILE NAME);
+reset();
+```
+* Save **main.cpp**, then recompile and run. Test case results should be displayed in the console.
+* **Don't forget** to try your code on the ECE server :)
+
+#### Files in Project 7 Folder
+* **test1.txt, test2.txt, test3.txt** - test cases provided by instructors
+* **test_extra1.txt** - tests processPurchase() with negative qty or more than in inventory; processInventory() with negative qty, 0 qty; processSummarize() at beginning and end
+* **test_extra2.txt** -  tests processPurchase() with negative qty, zero qty, or more than in inventory; processInventory() with negative qty, 0 qty; processSummarize() at beginning and end
+* **test_extra3.txt** - tests processPurchase() with negative qty, zero qty, or more than in inventory; processInventory() with negative qty, 0 qty
+* **text_extra4.txt** - tests processPurchase() with negative qty or zero qty; processInventory() with negative qty, 0 qty
+* **text_extra5.txt** - processPurchase() stress test
+
 ### Project 6
 The Project 6 Tester includes an autograder. Your score will be shown at the end of the tests.
 
@@ -53,6 +76,9 @@ reset();
 * **Don't forget** to try your code on the ECE server :)
 
 ## How to Write a Test Case
+### Project 7
+Like Project 4.
+
 ### Project 6
 Like Project 5.
 
