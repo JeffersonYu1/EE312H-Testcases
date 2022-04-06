@@ -12,7 +12,7 @@ Inventory Diapers 3
 Purchase Yellow Bottles 20
 Purchase maybe Diapers 0
 Purchase is Diapers 1
-Purchase not Diapers -1
+Purchase not Diapers 0
 Purchase sus Rattles 1
 
 Summarize

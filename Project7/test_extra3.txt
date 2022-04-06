@@ -4,7 +4,6 @@ Inventory Diapers 1000000000
 
 Purchase Windu Bottles 20
 Purchase Luke Diapers 0
-Purchase Grogu Diapers -1
 Purchase Yoda Diapers 1
 
 Summarize

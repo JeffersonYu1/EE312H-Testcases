@@ -18,9 +18,6 @@ Summarize
 Purchase a Bottles 530
 Purchase b Rattles 530
 Purchase c Diapers 530
-Purchase a Bottles -530
-Purchase b Rattles -530
-Purchase c Diapers -530
 Purchase sandeepguptadoubledeckerbusshanticurrypatel Bottles 519
 Purchase baljeet Diapers 519 
 Purchase ferb Rattles 519

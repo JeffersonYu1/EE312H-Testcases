@@ -21,7 +21,6 @@ Purchase c Diapers 1000
 Purchase a Bottles 10
 Purchase b Rattles 1
 Purchase d Rattles 0
-Purchase e Rattles -1
 
 Summarize
 Quit
