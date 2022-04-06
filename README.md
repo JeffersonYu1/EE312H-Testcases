@@ -11,11 +11,12 @@ Thanks to everyone who contributed to this project! **Do not upload program sour
 ### Project 6
 The Project 6 Tester includes an autograder. Your score will be shown at the end of the tests.
 
-1. Remove the original **main.cpp** file that was provided in the Project 6 ZIP.
-2. Download/save my [main2.cpp](https://raw.githubusercontent.com/JeffersonYu1/EE312H-Testcases/main/Project6/main2.cpp) file, and place it into the folder with your **Project6.cpp** and other files for this lab.
-3. Open your IDE and run 'make' in terminal like normal. (There may be some warnings.)
-4. If 'make' is successful, run **./proj6**.
-5. Keep running / revising your Project 6 until you get the cat (pass all tests) (:
+1. Remove the original **main.cpp** file (and **main.o** if you have compiled preivously) that was provided in the Project 6 ZIP.
+2. Download/save my [main2.cpp](https://github.com/JeffersonYu1/EE312H-Testcases/blob/main/Project6/main2.cpp) file, and place it into the folder with your **Project6.cpp** and other files for this lab. ([Raw](https://raw.githubusercontent.com/JeffersonYu1/EE312H-Testcases/main/Project6/main2.cpp) here.) Make sure the file extension when downloaded is **.cpp** and NOT **.txt**!
+3. Rename **main2.cpp** as **main.cpp**.
+4. Open your IDE and run 'make' in terminal like normal. (There may be some warnings.)
+5. If 'make' is successful, run **./proj6**.
+6. Keep running / revising your Project 6 until you get the cat (pass all tests) (:
 
 Note: If you don't want full details for each test to be shown, change **showDetails** at the top of the file to **0** instead of **1**. Then, only the details for failed cases will be shown.
 
