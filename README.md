@@ -25,11 +25,13 @@ reset();
 
 #### Files in Project 7 Folder
 * **test1.txt, test2.txt, test3.txt** - test cases provided by instructors
-* **test_extra1.txt** - tests processPurchase() with negative qty or more than in inventory; processInventory() with negative qty, 0 qty; processSummarize() at beginning and end
-* **test_extra2.txt** -  tests processPurchase() with negative qty, zero qty, or more than in inventory; processInventory() with negative qty, 0 qty; processSummarize() at beginning and end
-* **test_extra3.txt** - tests processPurchase() with negative qty, zero qty, or more than in inventory; processInventory() with negative qty, 0 qty
-* **text_extra4.txt** - tests processPurchase() with negative qty or zero qty; processInventory() with negative qty, 0 qty
+* **test_extra1.txt** - tests processPurchase() with more than in inventory; processInventory() with negative qty, 0 qty; processSummarize() at beginning and end
+* **test_extra2.txt** -  tests processPurchase() with zero qty or more than in inventory; processInventory() with negative qty, 0 qty; processSummarize() at beginning and end
+* **test_extra3.txt** - tests processPurchase() with zero qty or more than in inventory; processInventory() with negative qty, 0 qty
+* **text_extra4.txt** - tests processPurchase() with zero qty; processInventory() with negative qty, 0 qty
 * **text_extra5.txt** - processPurchase() stress test
+
+Note: As per the Project 7 PDF, "no customers will attempt to buy negative numbers of anything." Therefore, none of the extra test cases test for negative inputs to processPurchase().
 
 ### Project 6
 The Project 6 Tester includes an autograder. Your score will be shown at the end of the tests.
