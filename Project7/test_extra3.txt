@@ -1,0 +1,20 @@
+Inventory Bottles -1
+Inventory Rattles 0
+Inventory Diapers 1000000000
+
+Purchase Windu Bottles 20
+Purchase Luke Diapers 0
+Purchase Grogu Diapers -1
+Purchase Yoda Diapers 1
+
+Summarize
+Quit
+
+/** test_extra3 Results should be: **/
+Sorry Windu, we only have 0 Bottles
+There are 0 Bottles 999999999 Diapers and 0 Rattles in inventory
+we have had a total of 1 different customers
+no one has purchased any Bottles
+Yoda has purchased the most Diapers (1)
+no one has purchased any Rattles
+/********* end of test_extra3 *************/

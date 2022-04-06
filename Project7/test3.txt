@@ -1,0 +1,35 @@
+Inventory Bottles 100
+Inventory Rattles 50
+Inventory Diapers 200
+
+Purchase Craig Bottles 4
+Purchase Craig Diapers 100
+
+Purchase Billy Diapers 100
+
+Purchase Sue Diapers 50
+Purchase Sue Bottles 10
+
+Inventory Diapers 200
+Purchase Sue Diapers 150
+Purchase Sue Rattles 60
+Purchase Craig Diapers 20
+Purchase Craig Bottles 8
+
+Purchase Billy Rattles 10
+
+Purchase Johnny Rattles 100
+
+
+Summarize
+Quit
+/** test3 Results should be: **/
+Sorry Sue, we only have 0 Diapers
+Sorry Sue, we only have 50 Rattles
+Sorry Johnny, we only have 40 Rattles
+There are 78 Bottles, 30 Diapers and 40 Rattles in inventory
+we have had a total of 3 different customers
+Craig has purchased the most Bottles (12)
+Sue has purchased the most Diapers (150)
+Billy has purchased the most Rattles (10)
+/********* end of test 3 *************/

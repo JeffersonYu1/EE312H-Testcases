@@ -1,0 +1,48 @@
+Summarize
+
+Inventory Bottles -50000
+Inventory Rattles -50000
+Inventory Diapers -50000
+Inventory Rattles 0
+Inventory Diapers 0
+Inventory Bottles 0
+Inventory Bottles 500
+Inventory Rattles 500
+Inventory Diapers 500 
+Inventory Bottles 20
+Inventory Rattles 20
+Inventory Diapers 20 
+
+Summarize
+
+Purchase a Bottles 530
+Purchase b Rattles 0
+Purchase c Diapers 1000
+Purchase a Bottles 10
+Purchase b Rattles 1
+Purchase d Rattles 0
+Purchase e Rattles -1
+
+Summarize
+Quit
+
+
+/** test_extra2 Results should be: **/
+There are 0 Bottles 0 Diapers and 0 Rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any Bottles
+no one has purchased any Diapers
+no one has purchased any Rattles
+There are 520 Bottles 520 Diapers and 520 Rattles in inventory
+we have had a total of 0 different customers
+no one has purchased any Bottles
+no one has purchased any Diapers
+no one has purchased any Rattles
+Sorry a, we only have 520 Bottles
+Sorry c, we only have 520 Diapers
+There are 510 Bottles 520 Diapers and 519 Rattles in inventory
+we have had a total of 2 different customers
+a has purchased the most Bottles (10)
+no one has purchased any Diapers
+b has purchased the most Rattles (1)
+/********* end of test_extra2 *************/
