@@ -9,6 +9,7 @@ Thanks to everyone who contributed to this project! **Do not upload program sour
 
 ## How to Use a Test Case
 ### Project 7
+#### Method 1: Manual Testing
 Place the desired **.txt** file(s) (test case) into the same folder as your **proj7** executable (called **a.out** for this project).
 * Navigate to **main.cpp** and scroll down to the **main** function. Find the code snippet below and make the changes:
 ```
@@ -22,6 +23,9 @@ reset();
 ```
 * Save **main.cpp**, then recompile and run. Test case results should be displayed in the console.
 * **Don't forget** to try your code on the ECE server :)
+
+#### Method 2: Testing Script
+Contributed by David Puma. View the instructions for running at [his README](https://github.com/JeffersonYu1/EE312H-Testcases/tree/main/Project7).
 
 #### Files in Project 7 Folder
 * **test1.txt, test2.txt, test3.txt** - test cases provided by instructors
