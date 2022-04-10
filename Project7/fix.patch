@@ -1,0 +1,19 @@
++++ main.cpp   2022-04-10 15:11:06.019197642 -0500
+@@ -90,5 +90,15 @@
+     readInput("test3.txt");
+     reset();
+ 
++    readInput("test_extra1.txt");
++    reset();
++    readInput("test_extra2.txt");
++    reset();
++    readInput("test_extra3.txt");
++    reset();
++    readInput("test_extra4.txt");
++    reset();
++    readInput("test_extra5.txt");
++    reset();
+     return 0;
+ }
+ 
+
