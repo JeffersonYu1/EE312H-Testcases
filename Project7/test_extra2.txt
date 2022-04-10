@@ -27,19 +27,19 @@ Quit
 
 
 /** test_extra2 Results should be: **/
-There are 0 Bottles 0 Diapers and 0 Rattles in inventory
+There are 0 Bottles, 0 Diapers and 0 Rattles in inventory
 we have had a total of 0 different customers
 no one has purchased any Bottles
 no one has purchased any Diapers
 no one has purchased any Rattles
-There are 520 Bottles 520 Diapers and 520 Rattles in inventory
+There are 520 Bottles, 520 Diapers and 520 Rattles in inventory
 we have had a total of 0 different customers
 no one has purchased any Bottles
 no one has purchased any Diapers
 no one has purchased any Rattles
 Sorry a, we only have 520 Bottles
 Sorry c, we only have 520 Diapers
-There are 510 Bottles 520 Diapers and 519 Rattles in inventory
+There are 510 Bottles, 520 Diapers and 519 Rattles in inventory
 we have had a total of 2 different customers
 a has purchased the most Bottles (10)
 no one has purchased any Diapers

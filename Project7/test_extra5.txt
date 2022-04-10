@@ -1003,7 +1003,7 @@ Summarize
 Quit
 
 /** test_extra5 Results should be: **/
-There are 499500 Bottles 0 Diapers and 0 Rattles in inventory
+There are 499500 Bottles, 0 Diapers and 0 Rattles in inventory
 we have had a total of 1000 different customers
 1000 has purchased the most Bottles (1000)
 no one has purchased any Diapers

@@ -19,7 +19,7 @@ Summarize
 Quit
 
 /** test_extra4 Results should be: **/
-There are 480 Bottles 3 Diapers and 20 Rattles in inventory
+There are 480 Bottles, 3 Diapers and 20 Rattles in inventory
 we have had a total of 3 different customers
 Yellow has purchased the most Bottles (20)
 is has purchased the most Diapers (1)

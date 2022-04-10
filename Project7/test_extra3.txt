@@ -11,7 +11,7 @@ Quit
 
 /** test_extra3 Results should be: **/
 Sorry Windu, we only have 0 Bottles
-There are 0 Bottles 999999999 Diapers and 0 Rattles in inventory
+There are 0 Bottles, 999999999 Diapers and 0 Rattles in inventory
 we have had a total of 1 different customers
 no one has purchased any Bottles
 Yoda has purchased the most Diapers (1)
