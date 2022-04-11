@@ -2,7 +2,6 @@
 @@ -90,5 +90,15 @@
      readInput("test3.txt");
      reset();
- 
 +    readInput("test_extra1.txt");
 +    reset();
 +    readInput("test_extra2.txt");
