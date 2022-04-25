@@ -1,0 +1,98 @@
+//extra_test5.blip (Anna Guo)
+//Goal: Mess with binary tree symbol table
+//lots of adding/finding nodes
+var n 14
+var g 7
+var o 15
+var c 3
+var k 11
+var s 19
+var w 23
+var a 1
+var e 5
+var i 9
+var m 13
+var q 17
+var u 21
+var y 25
+var b 2
+var d 4
+var f 6
+var h 8
+var j 10
+var l 12
+var p 16
+var r 18
+var t 20
+var v 22
+var x 24
+var z 26
+output a
+text ", "
+output b
+text ", "
+output c
+text ", "
+output d
+text ", "
+output e
+text ", "
+output f
+text ", "
+output g
+text ", "
+output h
+text ", "
+output i
+text ", "
+output j
+text ", "
+output k
+text ", "
+output l
+text ", "
+output m
+text ", "
+output n
+text ", "
+output o
+text ", "
+output p
+text ", "
+output q
+text ", "
+output r
+text ", "
+output s
+text ", "
+output t
+text ", "
+output u
+text ", "
+output v
+text ", "
+output w
+text ", "
+output x
+text ", "
+output y
+text ", "
+output z
+text "\n"
+set w 1
+set o 2
+set r 3
+set l 5
+set e + 1 e
+output w
+output o
+output r
+output d
+output l
+output e
+//Expected output:
+//1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26
+//123456
+//Comments:
+//potential overlooked error: name may be longer than one character
+//(though that was already covered in extra_test4.blip)

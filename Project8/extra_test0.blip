@@ -1,0 +1,15 @@
+//extra_test0.blip (Anna Guo)
+//Goal: test program response to line breaks and tabs
+text
+"Hello World\n"
+	text
+	the		text " "
+text	answer		text " "
+text	is	
+		text " "
+output	* - + 2 10 ~ 2 3
+text \n
+//Expected output:
+//Hello World
+//the answer is 42
+//

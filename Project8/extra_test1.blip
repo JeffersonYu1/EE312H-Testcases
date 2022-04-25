@@ -1,0 +1,27 @@
+//extra_test1.blip (Anna Guo)
+//Goal: test invalid re-initialization
+//and setting undeclared variables
+set a 1
+set b 2
+set c 3
+output a	text ", "
+output b	text ", "
+output c	text \n
+var a 4
+var b 5
+var c 6
+output a	text ", "
+output b	text ", "
+output c
+//Expected output:
+//variable a not declared
+//variable b not declared
+//variable c not declared
+//1, 2, 3
+//variable a incorrectly re-initialized
+//variable b incorrectly re-initialized
+//variable c incorrectly re-initialized
+//4, 5, 6
+//Comments:
+//Also checks for errors in addNode for the symbol table binary tree
+//Hint: Add conditional statements to your functions for var and output
