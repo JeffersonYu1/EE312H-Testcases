@@ -1,0 +1,7 @@
+//extra_test7.blip (Anna Guo)
+//Goal: double check for distinction between unary and binary operators
+output != 1 0
+output <= 2 2
+output >= 3 3
+//Expected output:
+//111

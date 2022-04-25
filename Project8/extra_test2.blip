@@ -1,0 +1,43 @@
+//extra_test2.blip (Anna Guo)
+//Goal: test legal comments (keywords after comments)
+//comments may be between statements,
+//but not in the middle of statements
+text The	//text "P in PE stands for pointless"
+text " FitnessGram Pacer test is a multistage\n"
+//text "trial of fire"
+text "aerobic capacity test that progressively gets\nmore "
+text "difficult as it continues. The "
+var Spain 100;
+var S 80;
+//output 9000
+output - Spain S
+text " meter\nPacer test will begin in "
+set Spain 30 //set Spain -1
+output Spain
+text " seconds. Line up at \nthe start. "
+text "The running speed starts slowly, but\n" //"I have a vendetta against exercise"
+text "gets faster each minute after you hear this "
+text "\nsignal *boop*. A single lap should be completed"
+text "\neach time you hear this sound *ding*. Remember"
+text "\nto run in a straight line, and run as long as"
+text "\npossible. The second time you fail "
+//text "an exam in university, search 'Never Give Up! clams' on YouTube."
+text "to complete\na lap before the sound, your test is over. The"
+text "\ntest will begin on the word start. On your mark, \nget ready, start."
+//Expected output:
+//The FitnessGram Pacer test is a multistage
+//aerobic capacity test that progressively gets
+//more difficult as it continues. The 20 meter
+//Pacer test will begin in 30 seconds. Line up at
+//the start. The running speed starts slowly, but
+//gets faster each minute after you hear this
+//signal *boop*. A single lap should be completed
+//each time you hear this sound *ding*. Remember
+//to run in a straight line, and run as long as
+//possible. The second time you fail to complete
+//a lap before the sound, your test is over. The 
+//test will begin on the word start. On your mark,
+//get ready, start.
+//Comments:
+//Also tests simple operations with variables
+//Hint: check the functions given in Input.cpp
