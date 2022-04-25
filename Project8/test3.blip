@@ -1,0 +1,26 @@
+text "output 42 -- "
+output 42 // prints 42
+text \n
+
+text "output + 42 42 -- "
+output + 42 42 // prints 84
+text \n
+
+text "output + 42 + 10 5 -- "
+output + 42 + 10 5 // prints 57
+text \n
+
+text "output * 5 + 2 2 -- "
+output * 5 + 2 2
+text \n
+
+text "output + * 5 3 + 4 4 -- "
+output + * 5 3 + 4 4
+text \n
+
+text "output - 0 4 -- "
+output - 0 4
+text \n
+
+text "Hello World\n"
+

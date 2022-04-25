@@ -1,0 +1,26 @@
+output + 2 2 text " should be 4\n"
+output * 3 3 
+text " should be 9\n"
+output / 10 2 
+text " should be 5\n"
+output - 7 4 
+text " should be 3\n"
+output < 5 10
+text " should be 1\n"
+output > 5 10
+text " should be 0\n"
+output == 3 3
+text " should be 1\n"
+output != 2 7 
+text " should be 1\n"
+output == 2 7
+text " should be 0\n"
+output != 3 3
+text " should be 0\n"
+output ~ 42 
+text " should be -42\n"
+output ! 0 
+text " should be 1\n"
+output ! 42 
+text " should be 0\n"
+
