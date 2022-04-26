@@ -10,6 +10,22 @@ Thanks to everyone who contributed to this project! **If this repository helped 
 * [How to Submit a Test Case to this Repository](https://github.com/JeffersonYu1/EE312H-Testcases#how-to-submit-a-test-case-to-this-repository)
 
 ## How to Use a Test Case
+### Project 8
+Place the desired **.blip** file(s) (test case) into the smae folder as your **proj8** executable and other files.
+* As mentioned in the assignment instructions document, your main should look like the below:
+
+```
+int main(void){
+ set_input(<DESIRED BLIP FILE PATH>);
+ run();
+}
+```
+
+Change the Blip filepath to be the test case that you want, and then run your code.
+* Note: In many **.blip** test files, the expected output is listed as comments.
+
+Don't forget to try your code on the ECE server :)
+
 ### Project 7
 #### Method 1: Manual Testing
 Place the desired **.txt** file(s) (test case) into the same folder as your **proj7** executable (called **a.out** for this project).
@@ -84,6 +100,9 @@ reset();
 * **Don't forget** to try your code on the ECE server :)
 
 ## How to Write a Test Case
+### Project 8
+Like Project 4, but with **.blip** file extension instead of **.txt**.
+
 ### Project 7
 Like Project 4.
 
