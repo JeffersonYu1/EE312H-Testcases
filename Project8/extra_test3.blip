@@ -1,12 +1,12 @@
-//extra_test3.blip (Anna Guo)
-//Goal: test that the unary operator '~' was
-//implemented with arithmetic logic, not bitwise
+// extra_test3.blip (Anna Guo)
+// Goal: test that the unary operator '~' was
+// implemented with arithmetic logic, not bitwise
 text "The negative of "
 var x 1
 output x
 text " is "
 output ~ x
-//Expected output:
-//-1
-//Comments:
-//Pretty straightforward, don't overthink it
+// Expected output:
+// -1
+// Comments:
+// Pretty straightforward, don't overthink it

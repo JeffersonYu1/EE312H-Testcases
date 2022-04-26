@@ -1,6 +1,6 @@
-//extra_test4.blip (Anna Guo)
-//Goal: initially: test operators/recursion
-//eventually: plainly indulgent
+// extra_test4.blip (Anna Guo)
+// Goal: initially: test operators/recursion
+// eventually: plainly indulgent
 var one ! <= 5 == 4 / 1 4
 var two + 2 && 0 || 1 % 3 3 
 var three * 3 + != + - ~ 1 >= 4 4 3 < 2 2 > 1 1
@@ -24,59 +24,59 @@ output ~ + - 5 7 1 output + 1 - * three one two output 55
 text "\tBlarglefish\n"
 text "1477\tTexas Torque\n2158\tAusTIN CANs\n"
 output * * * two two three two output + 20 * * * * three two two two two
-//text "who do we"
+// text "who do we"
 text "\tTeam Appreciate\n"
 output * + two three + two three output * * two two two output two
 text "\tPantherBots\n2587\tDiscoBots\n2714\tBBQ\n"
-text "2881\tLadyCans\n3103\tIron Plaid" //respect
-text "\n3310\tBlack Hawk Robotics\n" //Einsteins so many times...
-text "3735\tVorTX\n3847\tSpectrum\n" //△◅ 
-text "4063\tTriKzR4Kidz\n" //thanks for the bunny ears, y'all are amazing
-text "4295\tHudson Robotics\n4587\tJersey Voltage\n" //2019 Deep Space ^-^
-text "5411\tRoboTalons\n5417\tEagle Robotics\n5427\tSteel Talons\n5431\tTitan Robotics\n" //2019 District Champs Alliance Selections (>_<), respect to your field representative
-text "5829\tAwtyBots\n5892\tEnergy HEROs\n6171\tChain Reaction\n6377\tHowdy Bots\n" //cute hats, Peary likes them too
-text "6369\tMercenary Robotics\n6645\tAlloy Obsession\n6800\tValor\n7312\tT3" //Lori's Baby Team
+text "2881\tLadyCans\n3103\tIron Plaid" // respect
+text "\n3310\tBlack Hawk Robotics\n" // Einsteins so many times...
+text "3735\tVorTX\n3847\tSpectrum\n" // △◅ 
+text "4063\tTriKzR4Kidz\n" // thanks for the bunny ears, y'all are amazing
+text "4295\tHudson Robotics\n4587\tJersey Voltage\n" // 2019 Deep Space ^-^
+text "5411\tRoboTalons\n5417\tEagle Robotics\n5427\tSteel Talons\n5431\tTitan Robotics\n" // 2019 District Champs Alliance Selections (>_<), respect to your field representative
+text "5829\tAwtyBots\n5892\tEnergy HEROs\n6171\tChain Reaction\n6377\tHowdy Bots\n" // cute hats, Peary likes them too
+text "6369\tMercenary Robotics\n6645\tAlloy Obsession\n6800\tValor\n7312\tT3" // Lori's Baby Team
 text "\n7418\tChannelview TechnoFalcons\n7494\tCircuit Bizurkers\n"
-text "254\tThe Cheesy Poofs\n" //text mild hero worship
-//Expected Output:
-//3, 2, 1
-//5414    Pearadox
-//118     Robonauts
-//148     RoboWranglers
-//231     High Voltage
-//624     CRyptonite
-//1255    Blarglefish
-//1477    Texas Torque
-//2158    AusTIN CANs
-//2468	  Team Appreciate
-//2582    PantherBots
-//2587    DiscoBots
-//2714    BBQ
-//2881    LadyCans
-//3103    Iron Plaid
-//3310    Black Hawk Robotics
-//3735    VorTX
-//3847    Spectrum
-//4063    TriKzR4Kidz
-//4295    Hudson Robotics
-//4587    Jersey Voltage
-//5411	  RoboTalons
-//5417    Eagle Robotics
-//5427    Steel Talons
-//5431    Titan Robotics
-//5829    AwtyBots
-//5892    Energy HEROs
-//6171    Chain Reaction
-//6377    Howdy Bots
-//6369    Mercenary Robotics
-//6645    Alloy Obsession
-//6800    Valor
-//7312	  T3
-//7418    Channelview TechnoFalcons
-//7494    Circuit Bizurkers
-//254     The Cheesy Poofs
-//
-//Comments:
-//make sure to distinguish (in code) between !, <, > and !=, <=, >=
-//World Champs was this weekend so it's been on my mind
-//Random FRC Propoganda
+text "254\tThe Cheesy Poofs\n" // text mild hero worship
+// Expected Output:
+// 3, 2, 1
+// 5414    Pearadox
+// 118     Robonauts
+// 148     RoboWranglers
+// 231     High Voltage
+// 624     CRyptonite
+// 1255    Blarglefish
+// 1477    Texas Torque
+// 2158    AusTIN CANs
+// 2468	  Team Appreciate
+// 2582    PantherBots
+// 2587    DiscoBots
+// 2714    BBQ
+// 2881    LadyCans
+// 3103    Iron Plaid
+// 3310    Black Hawk Robotics
+// 3735    VorTX
+// 3847    Spectrum
+// 4063    TriKzR4Kidz
+// 4295    Hudson Robotics
+// 4587    Jersey Voltage
+// 5411	  RoboTalons
+// 5417    Eagle Robotics
+// 5427    Steel Talons
+// 5431    Titan Robotics
+// 5829    AwtyBots
+// 5892    Energy HEROs
+// 6171    Chain Reaction
+// 6377    Howdy Bots
+// 6369    Mercenary Robotics
+// 6645    Alloy Obsession
+// 6800    Valor
+// 7312	  T3
+// 7418    Channelview TechnoFalcons
+// 7494    Circuit Bizurkers
+// 254     The Cheesy Poofs
+// 
+// Comments:
+// make sure to distinguish (in code) between !, <, > and !=, <=, >=
+// World Champs was this weekend so it's been on my mind
+// Random FRC Propoganda
