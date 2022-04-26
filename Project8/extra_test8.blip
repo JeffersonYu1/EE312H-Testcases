@@ -1,21 +1,21 @@
-//extra_test8.blip (Anna Guo)
-//General test
+// extra_test8.blip (Anna Guo)
+// General test
 var ten * 2 5
 var two * == 2 2 - ten 8
 set twenty 20
 set five / 20 * 2 2
 set twelve ~ + five + 9 >= 9 - two twenty
 var twelve 12
-//insert random comment here
+// insert random comment here
 var one		1 	var
 two	2 var three	3 var four	4
 set six
 6 set	seven		7 set eight 8
 set nine               9            var ten     + three - twelve five
-//keywords below
-//set eleven 42 output eleven
-//var twelve 42 output twelve
-//output 13
+// keywords below
+// set eleven 42 output eleven
+// var twelve 42 output twelve
+// output 13
 var eighteen + 2 * 8 2
 var eleven 11
 var fourteen - ~ - 0 + ten five && 2 <= 7 7
@@ -47,17 +47,17 @@ text ", "
 output eighteen 
 text ", "
 output twenty
-//Expected output:
-//variable twenty not declared
-//variable five not declared
-//variable twelve not declared
-//variable twelve incorrectly re-initialized
-//variable two incorrectly re-initialized
-//variable six not declared
-//variable seven not declared
-//variable eight not declared
-//variable nine not declared
-//variable ten incorrectly re-initialized
-//1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 18, 20
-//Comments:
-//just for a feel good moment, doesn't check for any additional errors than previous extra_tests
+// Expected output:
+// variable twenty not declared
+// variable five not declared
+// variable twelve not declared
+// variable twelve incorrectly re-initialized
+// variable two incorrectly re-initialized
+// variable six not declared
+// variable seven not declared
+// variable eight not declared
+// variable nine not declared
+// variable ten incorrectly re-initialized
+// 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 18, 20
+// Comments:
+// just for a feel good moment, doesn't check for any additional errors than previous extra_tests

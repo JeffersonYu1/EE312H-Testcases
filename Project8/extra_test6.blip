@@ -1,8 +1,8 @@
-//extra_test6.blip (Anna Guo)
-//Goal: max out length of variable name
+// extra_test6.blip (Anna Guo)
+// Goal: max out length of variable name
 var	x234567891214161820222426283032343638404244464850525456586062646668707274767880828486889092949698101104107110113117120123124.128	1
 output  x234567891214161820222426283032343638404244464850525456586062646668707274767880828486889092949698101104107110113117120123124.128
-//Expected output:
-//1
-//Comments:
-//Check pointer initialization
+// Expected output:
+// 1
+// Comments:
+// Check pointer initialization
