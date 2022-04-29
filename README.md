@@ -1,7 +1,7 @@
 # EE312H-Testcases
 Student-contribution test case repository for UT Austin's EE312H Course (Software Design and Implementation). Unofficial, not directly affiliated with UT. Started Spring 2022.
 
-Thanks to everyone who contributed to this project! **If this repository helped you, please consider giving it a star. Thanks!**
+Thanks to everyone who contributed to this project! **If this repository helped you, please consider giving it a star. Thank you (:**
 
 **Do not upload program source code to this repo or its forks!!**
 
