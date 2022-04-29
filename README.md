@@ -11,7 +11,9 @@ Thanks to everyone who contributed to this project! **If this repository helped 
 
 ## How to Use a Test Case
 ### Project 8
-Place the desired **.blip** file(s) (test case) into the smae folder as your **proj8** executable and other files.
+**zip file**: All of the extra test cases are zipped in **Project8_ExtraTestCases.zip**. Navigate to the file, click on it, and then **download** to download.
+
+Place the desired **.blip** file(s) (test case) into the same folder as your **proj8** executable and other files.
 * As mentioned in the assignment instructions document, your main should look like the below:
 
 ```
