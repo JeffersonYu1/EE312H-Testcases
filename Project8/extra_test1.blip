@@ -13,6 +13,7 @@ var c 6
 output a	text ", "
 output b	text ", "
 output c
+text \n
 // Expected output:
 // variable a not declared
 // variable b not declared

@@ -6,6 +6,7 @@ var x 1
 output x
 text " is "
 output ~ x
+text \n
 // Expected output:
 // -1
 // Comments:
