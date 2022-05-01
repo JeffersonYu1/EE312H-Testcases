@@ -47,6 +47,7 @@ text ", "
 output eighteen 
 text ", "
 output twenty
+text \n
 // Expected output:
 // variable twenty not declared
 // variable five not declared

@@ -38,6 +38,7 @@ text "5829\tAwtyBots\n5892\tEnergy HEROs\n6171\tChain Reaction\n6377\tHowdy Bots
 text "6369\tMercenary Robotics\n6645\tAlloy Obsession\n6800\tValor\n7312\tT3" // Lori's Baby Team
 text "\n7418\tChannelview TechnoFalcons\n7494\tCircuit Bizurkers\n"
 text "254\tThe Cheesy Poofs\n" // text mild hero worship
+text \n
 // Expected Output:
 // 3, 2, 1
 // 5414    Pearadox

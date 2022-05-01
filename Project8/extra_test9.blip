@@ -1,0 +1,7 @@
+// extra_test8.blip (David Puma)
+// Tests signed integer range, should work without trying
+
+// 2^30
+var x * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+output x
+text "\n"

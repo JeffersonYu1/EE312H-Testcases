@@ -3,5 +3,6 @@
 output != 1 0
 output <= 2 2
 output >= 3 3
+text \n
 // Expected output:
 // 111
