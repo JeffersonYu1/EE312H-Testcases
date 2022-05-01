@@ -25,8 +25,8 @@
 		* valgrind, and the PID of your program to find any 
 		* operating system resources your program fails to
 		* handle properly on exit.
-		* hint2: /proc/<PID>/
-		* hint3: The real culprit lies in `Input.cpp`,
+		* hint1: /proc/<PID>/
+		* hint2: The real culprit lies in `Input.cpp`,
 		* you will probably need to write a new function 
 		* in order to fix it 
 		*/
