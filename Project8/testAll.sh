@@ -31,7 +31,7 @@ for case in `ls TestCases/proj8/`; do
 	clear
 	echo -e "######\nTest number $i: $case\n######"
 	i=$((i + 1))
-	if [ $1 = "-v" ]; then
+	if [ "$1" = "-v" ]; then
 		valgrind ./a.out TestCases/proj8/$case
 	else
 		./a.out TestCases/proj8/$case
