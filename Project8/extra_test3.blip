@@ -8,6 +8,6 @@ text " is "
 output ~ x
 text \n
 // Expected output:
-// -1
+// The negative of 1 is -1
 // Comments:
 // Pretty straightforward, don't overthink it
