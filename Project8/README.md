@@ -19,18 +19,6 @@
 		}
 
 		// *Your cleanup code goes here*
-
-		/*
-		* hint0: for a perfectly clean valgrind report, use GDB,
-		* valgrind, and the PID of your program to find any 
-		* operating system resources your program fails to
-		* handle properly on exit.
-		* hint1: /proc/<PID>/
-		* hint2: The real culprit lies in `Input.cpp`,
-		* you will probably need to write a new function 
-		* in order to fix it 
-		*/
-
 		return 1;
 	}
 	```
