@@ -9,6 +9,10 @@ Thanks to everyone who contributed to this project! **If this repository helped 
 * [How to Write a Test Case](https://github.com/JeffersonYu1/EE312H-Testcases#how-to-write-a-test-case)
 * [How to Submit a Test Case to this Repository](https://github.com/JeffersonYu1/EE312H-Testcases#how-to-submit-a-test-case-to-this-repository)
 
+## IMPORTANT NOTE
+**This repo is incomplete.** Although there are many test cases included in this repository, some students reported issues of running all available test casesand still not getting a perfect score on their assignment. **YOU** can help by adding more test cases!
+* Test case contributors are not responsible for your assignment score.
+
 ## How to Use a Test Case
 ### Project 8
 **zip file**: All of the extra test cases are zipped in **Project8_ExtraTestCases.zip**. Navigate to the file, click on it, and then **download** to download.
